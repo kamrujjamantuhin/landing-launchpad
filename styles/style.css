@@ -179,3 +179,29 @@ main section{
 .message-btn{
     width: 100%;
 }
+/* Footer Styles */
+footer{
+    padding: 50px 450px;
+}
+.footer-container{
+    max-width: 530px;
+}
+.footer-title{
+    font-size: 70px;
+    font-weight: 800;
+}
+.footer-description{
+    color: rgba(137, 135, 161, 1);
+}
+.footer-links ul{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-links ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+.footer-links li a{
+    text-decoration: none;
+    color: rgba(137, 135, 161, 1);
+}
