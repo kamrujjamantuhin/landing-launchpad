@@ -15,6 +15,9 @@
 .bg-secondary{
     background-color: rgba(78, 71, 255, 0.1);
 }
+.body-secondary-bg{
+    background-color: #F5F8FF;
+}
 .btn-primary{
     background-color: #4E47FF;
     color: #FFFFFF;
@@ -108,6 +111,7 @@ main section{
     gap: 20px;
 }
 .feedback-card{
+    background-color: #FFFFFF;
     max-width: 366px;
     padding: 24px;
     border: 1px solid #F2EDED;
@@ -139,7 +143,9 @@ main section{
 }
 /* Template Styles */
 .template{
-    padding: 0 150px;
+    background-color: #FFFFFF;
+    border: none;
+    padding: 70px 150px;
     border-radius: 14px;
 }
 .template-section-title{
@@ -181,6 +187,7 @@ main section{
 }
 /* Footer Styles */
 footer{
+    background-color: #FFFFFF;
     padding: 50px 450px;
 }
 .footer-container{
@@ -192,6 +199,9 @@ footer{
 }
 .footer-description{
     color: rgba(137, 135, 161, 1);
+}
+.footer-links{
+    margin-top: 20px;
 }
 .footer-links ul{
     display: flex;
