@@ -154,3 +154,28 @@ main section{
     margin-top: 25px;
     border-radius: 48px;
 }
+/* Message Styles */
+.message{
+    padding: 70px 0;
+    display: flex;
+    align-items: center;
+}
+.message-column{
+    width: 50%;
+}
+.message-title h2{
+    font-size: 95px;
+    font-weight: bold;
+}
+.message input[type="text"], .message input[type="email"], .message textarea{
+    height: 50px;
+    border: 1px solid #F2EDED;
+    border-radius: 5px;
+    display: block;
+    width: 527px;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
+.message-btn{
+    width: 100%;
+}
