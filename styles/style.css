@@ -3,9 +3,17 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+.font-inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
 /* Shared Styles */
 .text-primary{
     color: #4E47FF;
+}
+.bg-secondary{
+    background-color: rgba(78, 71, 255, 0.1);
 }
 .btn-primary{
     background-color: #4E47FF;
@@ -71,4 +79,25 @@ main section{
 .action-img{
     max-width: 400px;
     border-radius: 45px;
+}
+/* Users Styles */
+.users{
+    border-radius: 24px;
+    padding: 50px 80px;
+}
+.users-section-title{
+    font-size: 38px;
+    font-weight: bold;
+}
+.users-stats{
+    display: flex;
+    justify-content: space-around;
+}
+.user-number{
+    font-size: 50px;
+    font-weight: bold;
+}
+.user-description{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
 }
