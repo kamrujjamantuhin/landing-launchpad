@@ -185,6 +185,10 @@ main section{
 .message-btn{
     width: 100%;
 }
+label {
+    display: block;
+    margin-bottom: 10px;
+}
 /* Footer Styles */
 footer{
     background-color: #FFFFFF;
