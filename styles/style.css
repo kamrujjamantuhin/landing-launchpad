@@ -29,6 +29,7 @@
 .btn-primary:hover{
     background-color: #6633FF;
     transition: ease .3s;
+    transform: scale(1.05);
 }
 .text-center{
     text-align: center;
