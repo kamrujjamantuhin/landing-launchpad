@@ -37,7 +37,6 @@
 /* Header Styles */
 .header{
     background-image: url('../Assets/Hero-bg.png');
-    background-repeat: no-repeat;
     height: 698px;
     width: 100%;
 }
