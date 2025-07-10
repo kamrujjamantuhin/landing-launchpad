@@ -26,6 +26,10 @@
     border: none;
     border-radius: 5px;
 }
+.btn-primary:hover{
+    background-color: #6633FF;
+    transition: ease .3s;
+}
 .text-center{
     text-align: center;
 }
