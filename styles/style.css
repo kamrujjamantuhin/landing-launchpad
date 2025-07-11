@@ -198,22 +198,20 @@ footer{
     background-color: #FFFFFF;
     padding: 50px 450px;
 }
-.footer-container{
-    max-width: 530px;
-}
 .footer-title{
     font-size: 70px;
     font-weight: 800;
 }
 .footer-description{
     color: rgba(137, 135, 161, 1);
+    margin-top: -40px;
 }
 .footer-links{
-    margin-top: 20px;
+    margin-top: 25px;
 }
 .footer-links ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .footer-links ul li{
     list-style: none;
